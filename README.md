@@ -1,1 +1,1 @@
-using vagrant,yayy.
+Ubuntu
